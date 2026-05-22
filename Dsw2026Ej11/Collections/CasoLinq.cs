@@ -1,4 +1,6 @@
-﻿namespace Dsw2026Ej11.Collections;
+﻿using Dsw2026Ej11.Domain;
+
+namespace Dsw2026Ej11.Collections;
 
 /*
  * Para cada punto crear un método que permita:
@@ -16,4 +18,6 @@
  */
 public class CasoLinq
 {
+
+   
 }
